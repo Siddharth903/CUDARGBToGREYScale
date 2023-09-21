@@ -17,8 +17,3 @@ search.exe command line arguments:
    -p currentPartId - the Coursera Part ID
    -t threadsPerBlock - the number of threads to schedule for concurrent processing
 
-DO NOT TOUCH THE EXISTING PRINT STATEMENTS, THIS MAY CAUSE YOU TO FAIL AN ASSIGNMENT. You can add debug print statement but it should at the end look like the following:
-
-Data: 8063503 93301624 236192674 453135755 604963279 636111415 717899641 1270883455 2004344247 2024977982 
-Searching for value: 2004344247 
-Found Index: -1
